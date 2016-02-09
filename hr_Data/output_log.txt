@@ -1,0 +1,17 @@
+Initialize engine version: 4.2.2f1 (54f0fc09defb)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 9.18.13.1106]
+    Renderer: NVIDIA GeForce 8800 GTS
+    Vendor:   NVIDIA
+    VRAM:     613 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 DF24=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\data\dev\unity\headsRoll\hr_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\data\dev\unity\headsRoll\hr_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\data\dev\unity\headsRoll\hr_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\data\dev\unity\headsRoll\hr_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+- Completed reload, in  0.201 seconds
+desktop: 1920x1200 59Hz; virtual: 3200x1200 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
